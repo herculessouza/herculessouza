@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @herculessouza
-- 👀 I’m interested in mobiole development
+- 👀 I’m interested in mobile development
 - 🌱 I’m currently learning Dart/Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
