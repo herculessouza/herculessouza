@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @herculessouza
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Dart/Flutter
+- 🌱 I’m currently learning Python/SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
