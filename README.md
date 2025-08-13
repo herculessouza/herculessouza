@@ -28,7 +28,7 @@
 ---
 
 ## 📫 Como me encontrar
-- **Email:** seuemail@example.com  
+- **Email:** hercules.az.souza@gmail.com  
 - **LinkedIn:** [linkedin.com/in/seuusuario](https://www.linkedin.com/in/hercules-az/)  
 - **GitHub:** [github.com/seuusuario](https://github.com/herculessouza)  
 
