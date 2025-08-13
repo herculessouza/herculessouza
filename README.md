@@ -29,8 +29,8 @@
 
 ## 📫 Como me encontrar
 - **Email:** hercules.az.souza@gmail.com  
-- **LinkedIn:** [linkedin.com/in/seuusuario](https://www.linkedin.com/in/hercules-az/)  
-- **GitHub:** [github.com/seuusuario](https://github.com/herculessouza)  
+- **LinkedIn:** [linkedin.com/in/hercules-az](https://www.linkedin.com/in/hercules-az/)  
+- **GitHub:** [github.com/herculessouza](https://github.com/herculessouza)  
 
 ---
 
